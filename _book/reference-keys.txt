@@ -1,0 +1,4 @@
+fig:DTFLlogo
+fig:munitionsspread
+fig:CWSlogo
+fig:Battalionlogo

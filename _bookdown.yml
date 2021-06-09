@@ -1,0 +1,10 @@
+rmd_files: 
+    - "index.Rmd"
+    - "10-foreword.Rmd"
+    - "20-introduction.Rmd"
+    - "30-USCWS.Rmd"
+    - "40-Privatization.Rmd"
+    - "99-references.Rmd"
+new_session: yes
+delete_merged_file: true
+
